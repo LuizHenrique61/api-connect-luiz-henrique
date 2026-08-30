@@ -22,7 +22,7 @@ Para simplificar o MVP, os dados são armazenados temporariamente em memória du
 Primeiro, clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/LuizHenrique61/api-connect-luiz-henrique.git
 
 Acesse a pasta do projeto:
 
